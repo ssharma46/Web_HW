@@ -1,0 +1,64 @@
+
+
+body {
+    background-color: lightsteelblue;
+    text-align: justify;
+    font-size: 25px;
+    border: 5px
+
+}
+
+.nav {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 20px;
+    background: midnightblue
+    font-size: 120%
+}
+
+.navbar li {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 20px;
+    display: inline-block;
+}
+
+body {
+    background-color: lightsteelblue
+    text-align: justify;
+    font-size: 25px;
+    border: 5px
+
+}
+
+.title {
+    text-color: royalblue;
+}
+
+.container {
+    background-color: white;
+}
+
+.container h1 {
+    font-size: 200;
+    text-align: center
+    color: royalblue;
+}
+
+.container h2 {
+    font-size: 200%;
+    text-align: center;
+    color: royalblue;
+}
+
+.container h3 {
+    font-size: 200%;
+    text-align: center;
+    color: royalblue;
+}
+
+.container h4 {
+    font-size: 200%;
+    text-align: center;
+    color: royalblue;
+}
